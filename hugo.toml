@@ -1,0 +1,4 @@
+baseURL = 'https://blog.cam.org/'
+languageCode = 'en-us'
+title = 'CAM Hugo Site'
+theme = 'ananke'

@@ -15,3 +15,10 @@ This is **bold** text, and this is *emphasized* text.
 > quote aaaaa bbbbbb
 
 Visit the [Hugo](https://gohugo.io) website!
+
+```java
+int a=10;
+```
+
+1. aaa
+2. bbb
